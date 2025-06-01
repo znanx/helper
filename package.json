@@ -1,6 +1,6 @@
 {
    "name": "@znan/helper",
-   "version": "1.0.2",
+   "version": "1.0.3",
    "description": "Made just to help",
    "main": "dist/index.js",
    "module": "dist/index.mjs",
