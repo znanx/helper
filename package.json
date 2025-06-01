@@ -19,7 +19,7 @@
       "helper"
    ],
    "author": "rifnd",
-   "license": "ISC",
+   "license": "MIT",
    "bugs": {
       "url": "https://github.com/rifnd/helper/issues"
    },
