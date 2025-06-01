@@ -1,12 +1,13 @@
 {
    "name": "@znan/helper",
-   "version": "1.0.3",
+   "version": "1.0.4",
    "description": "Made just to help",
    "main": "dist/index.js",
    "module": "dist/index.mjs",
    "types": "dist/index.d.ts",
    "scripts": {
       "build": "tsc",
+      "prepare": "npm run build",
       "test": "npx ts-node ./src/_test/test.ts"
    },
    "repository": {

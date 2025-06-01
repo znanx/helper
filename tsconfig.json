@@ -8,7 +8,7 @@
       "noEmit": false,
       "allowJs": false,
       "checkJs": false,
-      "outDir": "./lib",
+      "outDir": "./dist",
       "strict": false,
       "strictNullChecks": true,
       "skipLibCheck": true,
