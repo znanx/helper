@@ -59,7 +59,7 @@ exports.uploader = (i: Buffer | string, originalFilePath = null) => new Promise(
       resolve({
          creator,
          status: true,
-         response
+         ...response
       })
    } catch (e) {
       reject({
