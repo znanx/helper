@@ -7,16 +7,16 @@
       "shortner",
       "helper"
    ],
-   "homepage": "https://github.com/rifnd/helper#readme",
+   "homepage": "https://github.com/znanx/helper#readme",
    "bugs": {
-      "url": "https://github.com/rifnd/helper/issues"
+      "url": "https://github.com/znanx/helper/issues"
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/rifnd/helper.git"
+      "url": "git+https://github.com/znanx/helper.git"
    },
    "license": "MIT",
-   "author": "rifnd",
+   "author": "znanx",
    "main": "dist/index.js",
    "module": "dist/index.mjs",
    "types": "dist/index.d.ts",
